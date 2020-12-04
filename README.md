@@ -1,2 +1,2 @@
-# ansible-gcs-provision-bucket
-Deploy gcp bucket using ansible 2.10
+# ansible-initial
+Template of initial configuration file of ansible version 2.10. Model version 1.
